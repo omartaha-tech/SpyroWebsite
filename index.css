@@ -296,7 +296,7 @@ footer {
 }
 .burger-menu-btn {
     display: none;
-    background-image: url(../burger-menu-img/burger-menu-open.png);
+    background-image: url(burger-menu-open.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
