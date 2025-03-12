@@ -1,2 +1,1 @@
-# SpyroWebsite
-My own website i've developed to lead my company.
+Welcome to my website! This project is built with HTML, CSS, and possibly some JavaScript to create an engaging and responsive user experience. The goal of this site is to lead my company around the internet. I am continuously improving and updating the site, so stay tuned for new features and enhancements. Feel free to explore, and if you have any feedback or suggestions, I'd love to hear them!
